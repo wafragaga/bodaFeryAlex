@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "406097e93c11662880000d8bd253c3df",
-"assets/AssetManifest.bin.json": "587e59ef734338e71cc2d5e350249958",
-"assets/AssetManifest.json": "df4854c44e9fceef941cdd43bf8df129",
+const RESOURCES = {"assets/AssetManifest.bin": "0f039fcfb8647370c67caae155e64d30",
+"assets/AssetManifest.bin.json": "d8dc96ead10faeeea81500212e1065d2",
+"assets/AssetManifest.json": "bc0af496baf237b147df73ad2cf3ce79",
 "assets/assets/1.2.jpg": "47fa02f5381a0a6b5343d6fb6d271fca",
 "assets/assets/1.4.jpg": "519f83fba8806420e5616ae3a5ef77e6",
 "assets/assets/1.5.jpg": "c0c2f094ae4e7b177b9be2e850e70476",
@@ -53,6 +53,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "406097e93c11662880000d8bd253c3df
 "assets/assets/hosteria.jpg": "0fa767ad77f6c7dfabc01be0f391a134",
 "assets/assets/Instagram_icon.png": "c7937384fd9c561238863fe89e7454d0",
 "assets/assets/liverpool.png": "2185d61626184ac24d085aeb0ab7b9f6",
+"assets/assets/logo_boda.jpg": "3722037173a7afe2c1aca25c707d2737",
 "assets/assets/logo_boda.png": "01aec5ca31507766cf00be45fc2e5d01",
 "assets/assets/logo_boda_borderless.png": "67cb3cb01c58b1535bbb0cf65ed2eb38",
 "assets/assets/logo_boda_borderless2.png": "5a73fc9ddbecf415436f4b29c596e124",
@@ -66,7 +67,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "406097e93c11662880000d8bd253c3df
 "assets/assets/ubicacion.png": "fc016ae5e121218067800ca03d8e8d4d",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "9ebfc6bfa04506ca078a0099895c0174",
-"assets/NOTICES": "0c86e5153b1545f388b93b79df047e99",
+"assets/NOTICES": "87a442d4076ec26d43fb02d2aa1935e1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
 "assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
@@ -88,9 +89,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "406097e93c11662880000d8bd253c3df
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e1647a09b7d8c8b3435aebd7a7208da5",
-"/": "e1647a09b7d8c8b3435aebd7a7208da5",
-"main.dart.js": "c166f7f188b6a76de067011afa4ef593",
+"index.html": "126c7f42a623a9524bd8876953e6f886",
+"/": "126c7f42a623a9524bd8876953e6f886",
+"main.dart.js": "bf6bf431964fdf44b015edc5217330a4",
 "manifest.json": "e8add07f0fa638eadb3c306d597d1dff",
 "version.json": "2aa3c57100564158890f8d71e4f523a9"};
 // The application shell files that are downloaded before a service worker can
