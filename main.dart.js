@@ -72328,7 +72328,7 @@ A.HP.prototype={}
 A.nY.prototype={}
 A.IQ.prototype={}
 A.G4.prototype={
-N(a){return new A.vE(B.Ge,"Flutter Demo",A.amt(null,A.atK(B.a2,B.FX),!0),!1,null)}}
+N(a){return new A.vE(B.Ge,"Boda Fer & Alex",A.amt(null,A.atK(B.a2,B.FX),!0),!1,null)}}
 A.vO.prototype={
 al(){return new A.MT(B.l)}}
 A.MT.prototype={
